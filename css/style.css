@@ -65,7 +65,7 @@ a {
 	}
 }
 
-img {
+#ava {
 	border-radius: 50%;
 	animation: move 0.8s 1;
 }
@@ -195,6 +195,7 @@ h3 a:hover {
 .projects h3 {
 	margin-bottom: 2rem;
 }
+
 @media screen and (max-width: 1000px) {
 	body {
 		grid-template-columns: 1fr;
